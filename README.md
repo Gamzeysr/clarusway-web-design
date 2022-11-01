@@ -1,3 +1,8 @@
+
+![Adsız tasarım](https://user-images.githubusercontent.com/108168084/199169478-6a65b401-4510-45dd-916c-bb97093817a0.gif)
+
+
+
 ## https://react-gmz-clarusway-web-design.vercel.app/ 🎉✨🎀
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
